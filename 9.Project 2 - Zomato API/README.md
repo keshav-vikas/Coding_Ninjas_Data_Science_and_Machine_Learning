@@ -24,7 +24,6 @@ Note down the latitude and longitude of Coding Ninjas using Google Maps
 ### Zomato API - II
 #### Zomato Dataset Details
 #### Dataset Collection -
-Due to Zomato API Basic Plan restriction, we cannot collect enough data for analysis. To overcome this problem ‘Zomato.csv’ file is provided to analyse the data deeply and to get useful inference.    
 Data has been collected from the Zomato API in the form of .json files(raw data) using the following url and stored in CSV file -  
 https://developers.zomato.com/api/v2.1/search?entity_id=1&entity_type=city&start=1&count=20  
 
@@ -57,32 +56,32 @@ Votes : Number of ratings casted by people
  
 Country Code    Country  
 
-1               India
+1     --          India
 
-14              Australia
+14    --         Australia
 
-30              Brazil
+30    --           Brazil
 
-37              Canada
+37    --          Canada
 
-94              Indonesia
+94    --          Indonesia
 
-148             New Zealand
+148   --         New Zealand
 
-162             Phillipines
+162   --          Phillipines
 
-166             Qatar
+166   --         Qatar
 
-184             Singapore
+184   --         Singapore
 
-189             South Africa
+189   --          South Africa
 
-191             Sri Lanka
+191   --           Sri Lanka
 
-208             Turkey
+208   --           Turkey
 
-214             UAE
+214   --         UAE
 
-215             United Kingdom
+215   --        United Kingdom
 
-216             United States
+216   --         United States
