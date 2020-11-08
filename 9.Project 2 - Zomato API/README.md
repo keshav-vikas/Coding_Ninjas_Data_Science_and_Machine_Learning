@@ -1,5 +1,5 @@
-### Project Details
-
+## Project Details
+###                                                 Zomato API - I
 #### For this project, I am using the Zomato API.  
 Zomato APIs give you access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.  
 Zomato API documentation link : https://developers.zomato.com/api   
